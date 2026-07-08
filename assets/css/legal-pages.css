@@ -21,14 +21,14 @@
 }
 
 .error-card{
-    border-color:#d4af37;
+    border-color:none;
 }
 
 .legal-card:hover,
 .error-card:hover{
     transform:none;
     box-shadow:none;
-    border-color:inherit;
+    border-color:none;
 }
 
 /* ---------- Footer ---------- */
