@@ -1,3 +1,1 @@
 # MoneyWalaChart
-
-Auto Deploy Test
